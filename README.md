@@ -2,10 +2,12 @@
 
 This sample project shows how to show Unity view in SwiftUI, and how to establish bidirectional communication. The communication is via `String` messages, and it can be easily expand to other data types to fit your neds.
 
+You can read my [blog post (in Chinese)](https://chiahsien.github.io/post/unity-to-swiftui-app-integration/) for more details.
 ## Prerequisite
 
 - Xcode 12.5
 - Unity 2020.3.15f2 LTS
+- [Git-LFS](https://git-lfs.github.com/) to pull this repository
 
 ## References
 
